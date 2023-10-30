@@ -11,7 +11,7 @@
 
 ---
 
-- 📚 I'm currently have B.Tech. in Computer Science and Engineering from [Indian Institute of Information Technology, Design and Manufacturing, Jabalpur](https://www.iiitdmj.ac.in/)
+- 📚 I'm have B.Tech. in Computer Science and Engineering from [Indian Institute of Information Technology, Design and Manufacturing, Jabalpur](https://www.iiitdmj.ac.in/)
 - ⚙️ I'm mostly active within the **Data Science in Finance domain**
 - ⚡️ Learning and understanding the WORLD OF QUANTITATIVE FINANCE
 - 💻 Ask me about **Financial Derivatives**, **Statistics and Probability**, **Python**, **Global Diplomacy**
