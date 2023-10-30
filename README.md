@@ -2,11 +2,11 @@
 <h4 align="center"> I'm an aspiring Quantitative Analyst from India </h4>
 <h4 align="center"> I love to apply my knowledge of Computer Science in the field of Finance </h4>
 <p align="center">
-   <a href="http://www.utkarshquant.website/">Website</a> •
+   <a href="http://www.utkarshquant.website/">Website</a>
    &nbsp;
-   <a href="https://twitter.com/SahayaUtkarsh">Twitter</a> •
+   <a href="https://twitter.com/SahayaUtkarsh">Twitter</a>
    &nbsp;
-   • <a href="https://www.linkedin.com/in/utkarsh-sahaya/">LinkedIn</a>
+   <a href="https://www.linkedin.com/in/utkarsh-sahaya/">LinkedIn</a>
 </p>
 
 ---
